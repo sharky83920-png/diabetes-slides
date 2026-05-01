@@ -1,0 +1,13 @@
+{
+  "name": "diabetes-slides",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "slidev --open",
+    "build": "slidev build --base /diabetes-slides/",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^52.0.0",
+    "@slidev/theme-default": "latest"
+  }
+}
