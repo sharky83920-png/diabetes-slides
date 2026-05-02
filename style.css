@@ -1,0 +1,113 @@
+/* 醫療教學簡報 - Seriph 主題自訂樣式 */
+
+/* 字型微調 */
+.slidev-layout {
+  font-family: 'Noto Serif TC', 'Georgia', serif;
+}
+
+/* 標題顏色 - 深醫療藍 */
+.slidev-layout h1 {
+  color: #1a3a5c;
+  border-bottom: 3px solid #1a73e8;
+  padding-bottom: 8px;
+}
+
+.slidev-layout h2 {
+  color: #1a3a5c;
+}
+
+.slidev-layout h3 {
+  color: #2c5282;
+}
+
+/* 表格美化 */
+.slidev-layout table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.85em;
+}
+
+.slidev-layout th {
+  background: #1a3a5c;
+  color: white;
+  padding: 8px 12px;
+  text-align: left;
+}
+
+.slidev-layout td {
+  padding: 7px 12px;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+.slidev-layout tr:nth-child(even) td {
+  background: #f7faff;
+}
+
+/* 引用區塊美化 */
+.slidev-layout blockquote {
+  border-left: 4px solid #1a73e8;
+  background: #eff6ff;
+  padding: 10px 16px;
+  border-radius: 0 8px 8px 0;
+  color: #1e3a5f;
+  font-style: normal;
+}
+
+/* 程式碼區塊 */
+.slidev-layout pre {
+  background: #0f172a;
+  border-radius: 8px;
+  padding: 16px;
+  font-size: 0.9em;
+  line-height: 1.7;
+}
+
+/* 條列項目 */
+.slidev-layout li {
+  margin-bottom: 6px;
+  line-height: 1.7;
+}
+
+/* 封面頁特別樣式 */
+.slidev-layout.cover h1 {
+  font-size: 3em;
+  border: none;
+  color: white;
+}
+
+/* 圖片圓角陰影 */
+.slidev-layout img {
+  border-radius: 8px;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+}
+
+/* 警示色標籤 */
+.tag-red {
+  display: inline-block;
+  background: #fee2e2;
+  color: #991b1b;
+  padding: 2px 10px;
+  border-radius: 9999px;
+  font-size: 0.8em;
+  font-weight: bold;
+}
+
+.tag-blue {
+  display: inline-block;
+  background: #dbeafe;
+  color: #1e40af;
+  padding: 2px 10px;
+  border-radius: 9999px;
+  font-size: 0.8em;
+  font-weight: bold;
+}
+
+.tag-yellow {
+  display: inline-block;
+  background: #fef9c3;
+  color: #854d0e;
+  padding: 2px 10px;
+  border-radius: 9999px;
+  font-size: 0.8em;
+  font-weight: bold;
+}

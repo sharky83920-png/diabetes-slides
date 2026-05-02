@@ -1,53 +1,75 @@
 ---
-theme: default
+theme: seriph
 title: 糖尿病急症
+background: https://images.unsplash.com/photo-1579154204601-01588f351e67?w=1920&q=80
 highlighter: shiki
 drawings:
   persist: false
-transition: slide-left
+transition: fade
 mdc: true
 fonts:
   sans: Noto Sans TC
+  serif: Noto Serif TC
 ---
 
 # 糖尿病急症
 
 **從病生理到院前處置**
 
-<br>
-
+<div class="pt-6 text-white/80 text-lg">
 宋威儀｜海山消防分隊｜新北市 AEMT 教官
+</div>
 
+---
+layout: default
 ---
 
 # 學習目標
 
-- 了解糖尿病的**病理生理機制**
-- 能辨別四大急性併發症（低血糖、DKA、euDKA、HHS）
-- 熟悉**院前給糖操作**與 Wernicke 腦病變風險
-- 認識長期感染性併發症（蜂窩性組織炎 / 壞死性筋膜炎）
+<br>
 
+- 📖 了解糖尿病的**病理生理機制**
+- 🔍 能辨別四大急性併發症（低血糖、DKA、euDKA、HHS）
+- 🚑 熟悉**院前給糖操作**與 Wernicke 腦病變風險
+- 🦠 認識長期感染性併發症（蜂窩性組織炎 / 壞死性筋膜炎）
+
+---
+layout: two-cols
 ---
 
 # 課程說明
 
+<br>
+
 - 請問大家同意在課程中被拍攝照片，以供後續資料統計或檔案彙整嗎？
 - 課程中任何相關問題可**舉手發問**
-- 學員如有被講者提問或課堂測驗，**不會列入最後的考核**
-- 課堂若播放影像涉及患者隱私，如有不適**立即舉手**將馬上停止
+- 學員若被提問或測驗，**不會列入最後的考核**
+- 課堂影像涉及患者隱私，如有不適**立即舉手**
 - **請勿拍照或錄影**
 - 課程後會有**問卷**，麻煩大家填寫
 
-<img src="/images/常見急症的處置_slide3_10.png" style="position:absolute;right:40px;top:120px;height:320px;border-radius:8px;box-shadow:0 2px 8px #0002" />
+::right::
 
+<div class="flex items-center justify-center h-full">
+<img src="/images/常見急症的處置_slide3_10.png" class="rounded-xl shadow-lg max-h-72" />
+</div>
+
+---
+layout: two-cols
 ---
 
 # 講師介紹
 
-<img src="/images/常見急症的處置_slide2_22.jpg" style="position:absolute;left:60px;top:120px;height:260px;border-radius:50%;box-shadow:0 2px 8px #0003" />
-<img src="/images/常見急症的處置_slide2_27.jpg" style="position:absolute;left:40px;bottom:80px;height:120px;border-radius:8px;box-shadow:0 2px 8px #0002" />
-
 <br>
+
+<div class="flex flex-col gap-4">
+<img src="/images/常見急症的處置_slide2_22.jpg" class="rounded-full w-40 h-40 object-cover shadow-lg" />
+<img src="/images/常見急症的處置_slide2_27.jpg" class="rounded-lg shadow w-36" />
+</div>
+
+::right::
+
+<div class="flex flex-col justify-center h-full pl-8">
 
 ## 宋威儀
 
@@ -59,11 +81,18 @@ fonts:
 
 📋 新北市高級救護技術員教官
 
+</div>
+
+---
+layout: center
+class: text-center
 ---
 
 # 課程出處
 
-<br><br>
+<br>
+
+<div class="text-2xl leading-loose">
 
 📖 **內政部消防署　救護技術員教科書**
 
@@ -71,24 +100,22 @@ fonts:
 
 📗 **高級救護技術員教科書　第三版（下冊）**
 
+</div>
+
 ---
-layout: center
+layout: cover
+background: https://images.unsplash.com/photo-1631815588090-d4bfec5b1ccb?w=1920&q=80
 ---
 
-# 糖尿病急症
+# 糖尿病
 
-<!-- 圖片位置：放一張大型糖尿病患者示意圖（diabetes-cover.jpg） -->
+> 一個影響全台 **218 萬人**的疾病
 
-<br>
-
-> 一個影響全台 218 萬人的疾病
-
+---
+layout: two-cols
 ---
 
 # 基本概念
-
-<img src="/images/常見急症的處置_slide83_4.png" style="position:absolute;right:60px;top:120px;height:200px;border-radius:8px;box-shadow:0 2px 8px #0002" />
-<img src="/images/常見急症的處置_slide83_9.png" style="position:absolute;right:60px;bottom:80px;height:140px;border-radius:8px;box-shadow:0 2px 8px #0002" />
 
 **糖尿病（DM）** = 代謝性疾病，血糖長期高於標準值
 
@@ -102,35 +129,53 @@ layout: center
 | 台灣盛行率（18歲以上） | **11.1%**（約 218 萬人） |
 | 台灣死因排名 | 第 **5～6** 大死因 |
 
+::right::
+
+<div class="flex flex-col gap-4 items-center justify-center h-full">
+<img src="/images/常見急症的處置_slide83_4.png" class="rounded-xl shadow-lg max-h-52" />
+<img src="/images/常見急症的處置_slide83_9.png" class="rounded-xl shadow max-h-36" />
+</div>
+
+---
+layout: two-cols
 ---
 
 # 胰臟三大激素
 
-<img src="/images/常見急症的處置_slide84_5.jpg" style="position:absolute;right:40px;top:100px;height:180px;border-radius:8px;box-shadow:0 2px 8px #0002" />
-<img src="/images/常見急症的處置_slide85_5.jpg" style="position:absolute;right:40px;top:300px;height:130px;border-radius:8px;box-shadow:0 2px 8px #0002" />
-<img src="/images/常見急症的處置_slide85_8.jpg" style="position:absolute;right:40px;bottom:60px;height:100px;border-radius:8px;box-shadow:0 2px 8px #0002" />
+<img src="/images/常見急症的處置_slide84_5.jpg" class="rounded-xl shadow-lg max-h-36 mb-4" />
 
-| 激素 | 分泌細胞 | 功能 |
-|------|---------|------|
-| **胰島素** | β 細胞 | 讓葡萄糖進入細胞利用、儲存 |
+| 激素 | 細胞 | 功能 |
+|------|------|------|
+| **胰島素** | β 細胞 | 葡萄糖進入細胞、儲存 |
 | **昇糖素** | α 細胞 | 分解肝醣/脂肪 → 升血糖 |
 | **生長抑素** | δ 細胞 | 防止血糖波動過大 |
+
+::right::
+
+<div class="pl-4">
 
 **📦 葡萄糖儲存去向**
 
 | 位置 | 形式 | 說明 |
 |------|------|------|
-| **肝臟** | 肝醣 | 約 **60%**，可快速釋回血液 |
-| **骨骼肌** | 肌肝醣 | 供肌肉運動，無法釋回血液 |
-| **脂肪組織** | 三酸甘油酯 | 多餘轉為脂肪；副產物促粥狀動脈硬化 |
-| **大腦** | ❌ 無法儲存 | 只能直接利用血糖 → 低血糖立即影響意識 |
+| **肝臟** | 肝醣 | 約 **60%** |
+| **骨骼肌** | 肌肝醣 | 供肌肉運動用 |
+| **脂肪組織** | 三酸甘油酯 | 多餘轉脂肪 |
+| **大腦** | ❌ 無法儲存 | 直接用血糖 |
 
+<br>
+
+<img src="/images/常見急症的處置_slide85_5.jpg" class="rounded-lg shadow max-h-28" />
+
+</div>
+
+---
+layout: two-cols
 ---
 
 # 血糖調節 4 大機制
 
-<img src="/images/常見急症的處置_slide86_5.png" style="position:absolute;right:40px;top:120px;height:200px;border-radius:8px;box-shadow:0 2px 8px #0002" />
-<img src="/images/常見急症的處置_slide86_7.png" style="position:absolute;right:40px;bottom:80px;height:160px;border-radius:8px;box-shadow:0 2px 8px #0002" />
+<br>
 
 1. 胰島素 ↔ 昇糖素 **負向回饋**
 2. **肝醣的儲存與分解**
@@ -142,28 +187,43 @@ layout: center
 > ⚠️ 大腦只能用葡萄糖，無法直接用肝醣  
 > → 低血糖**立即**造成意識改變
 
+::right::
+
+<div class="flex flex-col gap-3 items-center justify-center h-full">
+<img src="/images/常見急症的處置_slide86_5.png" class="rounded-lg shadow max-h-44" />
+<img src="/images/常見急症的處置_slide86_7.png" class="rounded-lg shadow max-h-44" />
+</div>
+
+---
+layout: two-cols
 ---
 
 # 糖尿病分類
 
-<img src="/images/常見急症的處置_slide88_8.png" style="position:absolute;right:40px;top:120px;height:280px;border-radius:8px;box-shadow:0 2px 8px #0002" />
+<br>
 
 | 類型 | 特徵 | 好發 |
 |------|------|------|
 | **第一型（IDDM）** | β細胞被自體免疫破壞 | 兒童/青少年 |
-| **第二型（NIDDM）** | 分泌不足 / 接受體功能差 | 40歲以上、肥胖 |
+| **第二型（NIDDM）** | 分泌不足 / 接受體差 | 40歲以上、肥胖 |
 | **妊娠糖尿病** | 懷孕期間 | — |
-| **LADA（1.5型）** | 緩慢破壞，易誤診為第二型 | 成人 |
+| **LADA（1.5型）** | 緩慢破壞，易誤診 | 成人 |
 
 <br>
 
-> DM vs DI（尿崩症）：ADH 分泌不足或腎臟無反應，特點：多尿、低比重尿
+> DM vs DI（尿崩症）：ADH 分泌不足，特點：多尿、低比重尿
 
+::right::
+
+<div class="flex items-center justify-center h-full">
+<img src="/images/常見急症的處置_slide88_8.png" class="rounded-xl shadow-lg max-h-80" />
+</div>
+
+---
+layout: two-cols
 ---
 
 # 病理生理：核心流程
-
-<img src="/images/常見急症的處置_slide90_7.jpg" style="position:absolute;right:40px;top:100px;height:300px;border-radius:8px;box-shadow:0 2px 8px #0002" />
 
 ```
 胰島素不足／抗性
@@ -172,50 +232,61 @@ layout: center
     ↓
 改用脂肪當能量
     ↓
-脂肪酸 → 酮體（乙醯乙酸、β-羥基丁酸）
+脂肪酸 → 酮體
     ↓
 代謝性酸中毒（DKA）
 ```
 
-**三大連鎖反應：** ① 高血糖 → 脫水　② 脂肪代謝 → 酮酸　③ 蛋白質消耗 → 橫紋肌溶解
+**三大連鎖反應：**
+① 高血糖 → 脫水
+② 脂肪代謝 → 酮酸
+③ 蛋白質消耗 → 橫紋肌溶解
+
+::right::
+
+<div class="flex items-center justify-center h-full">
+<img src="/images/常見急症的處置_slide90_7.jpg" class="rounded-xl shadow-lg max-h-96" />
+</div>
 
 ---
 
 # 連鎖①：高血糖 → 脫水
 
-<br>
+<div class="text-xl leading-loose mt-6 text-center">
 
 血糖↑ → 葡萄糖溢入尿液（**糖尿**）
 
-↓
+⬇️
 
 滲透壓↑ → **滲透性利尿**（大量排尿）
 
-↓
+⬇️
 
 大量排尿 → **脫水**
 
-↓
+⬇️
 
 嚴重時 → **低血容量性休克** ⚠️
+
+</div>
 
 ---
 
 # 連鎖②：脂肪代謝 → 酮酸中毒
 
-胰島素缺乏 → 脂肪分解 → 游離脂肪酸
+<div class="text-lg leading-loose mt-4">
 
-↓ 肝臟代謝
+胰島素缺乏 → 脂肪分解 → 游離脂肪酸 → 肝臟代謝 → **酮體**（丙酮、乙酸鹽）
 
-**酮體**（丙酮、乙酸鹽）→ 血液 pH 下降
+⬇️ 血液 pH 下降
 
-↓ 身體代償
+身體代償：**Kussmaul 呼吸**（深、快）+ 肺排丙酮 → **水果發酵氣味** 🍎
 
-**Kussmaul 呼吸**（深、快）+ 丙酮由肺排出 → **水果發酵氣味** 🍎
+⬇️ 酸中毒
 
-↓
+K⁺ 外移 → **高血鉀 → 致命心律不整** ⚡
 
-酸中毒 → K⁺ 外移 → **高血鉀 → 致命心律不整** ⚡
+</div>
 
 ---
 
@@ -225,9 +296,7 @@ layout: center
 
 長期後果：免疫力↓ ／ 體重減輕 ／ 器官負擔增加
 
-↓
-
-**進一步導致橫紋肌溶解** 🔴
+⬇️ **進一步導致橫紋肌溶解** 🔴
 
 ---
 
@@ -235,26 +304,48 @@ layout: center
 
 **機制：** 骨骼肌破壞 → 肌紅蛋白/K⁺/磷大量釋入血液
 
-**臨床症狀：**
-
 | 系統 | 表現 |
 |------|------|
 | 🦵 肌肉 | 劇烈疼痛、腫脹、無力 |
-| 🟤 尿液（最具特徵！） | **可樂色/茶褐色**、大量**泡沫**、少尿→無尿 |
+| 🟤 尿液（**最具特徵！**） | **可樂色/茶褐色**、大量**泡沫**、少尿→無尿 |
 | 🤒 全身 | 噁心、嘔吐、發燒、極度虛弱 |
 
-**三大後果：** 腎小管壞死 → **急性腎衰竭** ／ 高血鉀 → **致命心律不整** ／ **DIC**
+<br>
+
+**三大後果：**
+腎小管壞死 → **急性腎衰竭** ／ 高血鉀 → **致命心律不整** ／ **DIC**
+
+---
+layout: section
+---
+
+# 長期併發症
 
 ---
 
 # 長期併發症總覽
+
+<div class="grid grid-cols-2 gap-6 mt-4">
+<div>
 
 - ❤️ 心血管疾病、中風
 - 🫘 慢性腎臟病
 - 🦶 糖尿病足（截肢）
 - 👁 視網膜病變（失明）
 - 🦵 末梢神經損傷
-- 🦠 **容易感染** → 下兩張詳述
+- 🦠 **容易感染** →
+
+</div>
+<div class="bg-blue-50 rounded-xl p-6 flex flex-col justify-center">
+
+**後兩頁詳述：**
+
+🟡 蜂窩性組織炎
+
+🔴 壞死性筋膜炎
+
+</div>
+</div>
 
 ---
 
@@ -266,12 +357,10 @@ layout: center
 
 **臨床表現：** 局部 **紅、腫、熱、痛**
 
-**嚴重程度**
-
-- 多數抗生素可治
-- DM患者易**反覆發作**，可進展為**菌血症**
-
-**死亡率：** 一般低；延誤或進展為**敗血症**則顯著上升
+| 項目 | 內容 |
+|------|------|
+| 嚴重程度 | 多數抗生素可治；DM患者易反覆發作、進展為菌血症 |
+| 死亡率 | 一般低；延誤或進展為**敗血症**則顯著上升 |
 
 ---
 
@@ -285,27 +374,57 @@ DM神經病變 → 初期**不痛** → 延誤就醫
 
 **特徵：** 皮膚「木頭感」、水泡、壞疽、**捻髮音（crepitus）**
 
-**死亡率：** 積極治療 **20～40%**；延誤診斷 **> 70%** ⚠️
+| 項目 | 數據 |
+|------|------|
+| 死亡率（積極治療） | **20～40%** |
+| 死亡率（延誤診斷） | **> 70%** |
 
-**院前警覺：** 疼痛與外觀不符 + 快速擴大紅斑 + 發燒/休克 → **立即送院**
+> ⚠️ **院前警覺：** 疼痛與外觀不符 + 快速擴大紅斑 + 發燒/休克 → 立即送院
 
+---
+layout: section
+---
+
+# 四大急性併發症
+
+---
+layout: two-cols
 ---
 
 # 🔵 急症①：低血糖
 
 血糖 **< 60 mg/dL**
 
-**症狀進程：** 顫抖、心悸、冷汗、飢餓 → 頭痛、躁動、抽搐 → 昏迷、**類中風表現**
+**症狀進程：**
 
-<img src="/images/常見急症的處置_slide96_7.jpg" style="position:absolute;right:60px;top:130px;height:220px;border-radius:8px;box-shadow:0 2px 8px #0002" />
+顫抖、心悸、冷汗、飢餓
 
-**Whipple's Triad**
+⬇️
 
-① 有低血糖症狀　② 症狀時測到低血糖值　③ 補糖後症狀緩解
+頭痛、躁動、抽搐
+
+⬇️
+
+昏迷、**類中風表現**
 
 <br>
 
 > ⚠️ **任何 DM 患者出現意識改變 → 先懷疑低血糖**
+
+::right::
+
+<div class="flex flex-col items-center justify-center h-full gap-4">
+<img src="/images/常見急症的處置_slide96_7.jpg" class="rounded-xl shadow-lg max-h-44" />
+
+**Whipple's Triad**
+
+① 有低血糖症狀
+
+② 症狀時測到低血糖值
+
+③ 補糖後症狀緩解
+
+</div>
 
 ---
 
@@ -313,11 +432,11 @@ DM神經病變 → 初期**不痛** → 延誤就醫
 
 胰島素缺乏 → 脂肪代謝 → 酮酸 → 酸中毒
 
-**代償：Kussmaul 呼吸**（深、快）
-
-**特徵：丙酮味（水果發酵味）**
-
-死亡率：**9～14%**
+| 項目 | 特徵 |
+|------|------|
+| 呼吸 | **Kussmaul**（深、快） |
+| 氣味 | **丙酮味**（水果發酵味） |
+| 死亡率 | **9～14%** |
 
 <br>
 
@@ -330,11 +449,11 @@ DM神經病變 → 初期**不痛** → 延誤就醫
 
 血糖**正常**（< 250 mg/dL）**但有酮酸中毒**
 
-**常見原因：SGLT-2 抑制劑**（Jardiance、Forxiga）
-
-→ 葡萄糖從尿排出 → 血糖正常但仍燒脂肪產酸
-
-**症狀：** Kussmaul 呼吸 ／ 丙酮味 ／ 噁心嘔吐
+| 項目 | 內容 |
+|------|------|
+| 常見原因 | **SGLT-2 抑制劑**（Jardiance、Forxiga） |
+| 機制 | 葡萄糖從尿排出 → 血糖正常但仍燒脂肪產酸 |
+| 症狀 | Kussmaul 呼吸 ／ 丙酮味 ／ 噁心嘔吐 |
 
 <br>
 
@@ -348,46 +467,77 @@ DM神經病變 → 初期**不痛** → 延誤就醫
 
 胰島素「夠用」避免酮酸，但不夠讓組織用糖
 
-**臨床三聯：** 嚴重**脫水** ／ **意識不清** ／ 電解質嚴重異常
-
-好發：**老年第二型 DM**
-
-<br>
-
-> 🔴 死亡率 **10～50%**（所有急症中最高！）
+| 項目 | 內容 |
+|------|------|
+| 臨床三聯 | 嚴重**脫水** ／ **意識不清** ／ 電解質嚴重異常 |
+| 好發 | **老年第二型 DM** |
+| 死亡率 | 🔴 **10～50%**（所有急症中最高！） |
 
 ---
+layout: two-cols
+---
 
-# 📊 四大急性併發症比較（總整理）
+# 📊 四大急性併發症比較
 
-<img src="/images/常見急症的處置_slide99_9.png" style="position:absolute;right:40px;top:80px;height:160px;border-radius:8px;box-shadow:0 2px 8px #0002" />
+<img src="/images/常見急症的處置_slide99_9.png" class="rounded-xl shadow mb-4 max-h-32" />
 
-| | 低血糖 | DKA | **euDKA** | **HHS** |
-|--|:------:|:---:|:---------:|:-------:|
-| 形成時間 | 分鐘 | 12～48h | 數小時～數日 | 數日 |
+| | 低血糖 | DKA | euDKA | HHS |
+|--|:--:|:--:|:--:|:--:|
 | 血糖 | <60 | >350 | **<250** | >600 |
 | 皮膚 | 溼冷 | 乾暖 | 乾暖 | 乾暖 |
 | 呼吸 | 正常 | Kussmaul | Kussmaul | 淺快 |
+| 酮體 | 無 | ✅ | ✅ | 無 |
+| 意識 | 常改變 | 少見 | 少見 | 常改變 |
+
+::right::
+
+<div class="pl-4 mt-8">
+
+| | 低血糖 | DKA | euDKA | HHS |
+|--|:--:|:--:|:--:|:--:|
+| 形成時間 | 分鐘 | 12~48h | 數小時 | 數日 |
 | 氣味 | 正常 | 丙酮味 | 丙酮味 | 正常 |
-| 酮體 | 無 | ✅ | ✅ | 無/極少 |
-| 意識改變 | 常見 | 少見 | 少見 | 常見 |
-| 死亡率 | 低 | 9～14% | 低 | **10～50%** |
+| 死亡率 | 低 | 9~14% | 低 | **10~50%** |
+
+</div>
+
+---
+layout: section
+---
+
+# 院前處置
 
 ---
 
 # 🚑 院前血糖監測
 
+<div class="grid grid-cols-2 gap-8 mt-4">
+<div>
+
 **消防署標準**
 
-1. 解釋原因 → 消毒選定部位 → 採血 → 加壓止血 → 棄置針頭
-2. 適應症：急性意識改變（GCS < 14）
+1. 解釋原因
+2. 消毒選定部位
+3. 採血
+4. 加壓止血
+5. 棄置針頭
+
+> 適應症：急性意識改變（GCS < 14）
+
+</div>
+<div>
 
 **實務建議**
 
-1. 解釋病情 → 備材（採血針、試紙、紙膠、酒棉）
-2. 消毒 → 扎針 → 採血 → 止血 → 必要時給糖
+1. 解釋病情
+2. 備材（採血針、試紙、紙膠、酒棉）
+3. 消毒 → 扎針 → 採血
+4. 止血 → 必要時給糖
 
-> 差異：備物順序、部位未強制指定、針具回收方式
+> 差異：備物順序、部位未強制、針具回收
+
+</div>
+</div>
 
 ---
 
@@ -402,12 +552,26 @@ DM神經病變 → 初期**不痛** → 延誤就醫
 | ⚠️ **懷疑酒精中毒** | **先給 B1，再給糖** |
 
 ---
+layout: two-cols
+---
 
 # ⚠️ Wernicke 腦病變
 
-**成因：** 長期酗酒 / 營養不良 → 慢性 **B1（Thiamine）缺乏**
+**成因**
 
-**陷阱：** 先給葡萄糖 → 消耗殘存 B1 → **急性 Wernicke 發作**
+長期酗酒 / 營養不良 → 慢性 **B1（Thiamine）缺乏**
+
+**陷阱**
+
+先給葡萄糖 → 消耗殘存 B1 → **急性 Wernicke 發作**
+
+**若未治療**
+
+→ **Korsakoff 精神病**（不可逆記憶障礙）
+
+::right::
+
+<div class="pl-4 flex flex-col justify-center h-full">
 
 **Wernicke Triad（三大症狀）**
 
@@ -417,20 +581,49 @@ DM神經病變 → 初期**不痛** → 延誤就醫
 | 👁 2 | 眼球運動障礙 / 眼震 |
 | 🦵 3 | 步態失調（走路不穩） |
 
-**若未治療 →** Korsakoff 精神病（不可逆記憶障礙）
+<br>
 
-> # 「先 B1，後糖」
+<div class="text-3xl text-center font-bold text-red-700 border-2 border-red-400 rounded-xl p-4">
+「先 B1，後糖」
+</div>
+
+</div>
 
 ---
 layout: center
+class: text-center
 ---
 
 # 總結 / 問答
 
-**四大急症辨識：** 血糖值 + 皮膚 + 呼吸 + 氣味
+<div class="grid grid-cols-3 gap-6 mt-8 text-left">
+<div class="bg-blue-50 rounded-xl p-5">
 
-**院前口訣：** 先 B1，後糖 ／ 意識改變先測血糖
+**四大急症辨識**
 
-**高風險警覺：** 可樂色尿（橫紋肌溶解）／ 疼痛外觀不符（壞死性筋膜炎）
+血糖值 + 皮膚
 
-<img src="/images/常見急症的處置_slide110_4.png" style="height:160px;border-radius:8px;box-shadow:0 2px 8px #0002;margin-top:24px" />
+呼吸 + 氣味
+
+</div>
+<div class="bg-red-50 rounded-xl p-5">
+
+**院前口訣**
+
+先 B1，後糖
+
+意識改變先測血糖
+
+</div>
+<div class="bg-amber-50 rounded-xl p-5">
+
+**高風險警覺**
+
+可樂色尿 → 橫紋肌
+
+疼痛外觀不符 → NF
+
+</div>
+</div>
+
+<img src="/images/常見急症的處置_slide110_4.png" class="mx-auto mt-8 max-h-28 rounded-lg shadow" />
