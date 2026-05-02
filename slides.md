@@ -16,9 +16,9 @@ fonts:
 
 **從病生理到院前處置**
 
-<div class="pt-6 text-white/80 text-lg">
-宋威儀｜海山消防分隊｜新北市 AEMT 教官
-</div>
+<br>
+
+宋威儀｜海山消防分隊｜新北市 EMTP 教官
 
 ---
 layout: default
@@ -39,8 +39,6 @@ layout: two-cols
 
 # 課程說明
 
-<br>
-
 - 請問大家同意在課程中被拍攝照片，以供後續資料統計或檔案彙整嗎？
 - 課程中任何相關問題可**舉手發問**
 - 學員若被提問或測驗，**不會列入最後的考核**
@@ -50,8 +48,8 @@ layout: two-cols
 
 ::right::
 
-<div class="flex items-center justify-center h-full">
-<img src="/images/常見急症的處置_slide3_10.png" class="rounded-xl shadow-lg max-h-72" />
+<div class="col-right">
+  <img src="/images/常見急症的處置_slide3_10.png" class="img-lg" />
 </div>
 
 ---
@@ -62,14 +60,15 @@ layout: two-cols
 
 <br>
 
-<div class="flex flex-col gap-4">
-<img src="/images/常見急症的處置_slide2_22.jpg" class="rounded-full w-40 h-40 object-cover shadow-lg" />
-<img src="/images/常見急症的處置_slide2_27.jpg" class="rounded-lg shadow w-36" />
-</div>
+<img src="/images/常見急症的處置_slide2_22.jpg" class="img-md" style="border-radius:50%;width:140px;height:140px;object-fit:cover;" />
+
+<br>
+
+<img src="/images/常見急症的處置_slide2_27.jpg" class="img-sm" />
 
 ::right::
 
-<div class="flex flex-col justify-center h-full pl-8">
+<div class="col-right" style="align-items:flex-start; padding-left:32px;">
 
 ## 宋威儀
 
@@ -77,7 +76,7 @@ layout: two-cols
 
 🚒 海山消防分隊　**10 年**
 
-🏅 高級救護技術員（AEMT）
+🏅 高級救護技術員（EMTP）
 
 📋 新北市高級救護技術員教官
 
@@ -92,15 +91,15 @@ class: text-center
 
 <br>
 
-<div class="text-2xl leading-loose">
-
 📖 **內政部消防署　救護技術員教科書**
 
 <br>
 
 📗 **高級救護技術員教科書　第三版（下冊）**
 
-</div>
+---
+
+&nbsp;
 
 ---
 layout: cover
@@ -131,9 +130,9 @@ layout: two-cols
 
 ::right::
 
-<div class="flex flex-col gap-4 items-center justify-center h-full">
-<img src="/images/常見急症的處置_slide83_4.png" class="rounded-xl shadow-lg max-h-52" />
-<img src="/images/常見急症的處置_slide83_9.png" class="rounded-xl shadow max-h-36" />
+<div class="col-right">
+  <img src="/images/常見急症的處置_slide83_4.png" class="img-md" />
+  <img src="/images/常見急症的處置_slide83_9.png" class="img-sm" />
 </div>
 
 ---
@@ -142,7 +141,7 @@ layout: two-cols
 
 # 胰臟三大激素
 
-<img src="/images/常見急症的處置_slide84_5.jpg" class="rounded-xl shadow-lg max-h-36 mb-4" />
+<img src="/images/常見急症的處置_slide84_5.jpg" class="img-sm" style="margin-bottom:12px;" />
 
 | 激素 | 細胞 | 功能 |
 |------|------|------|
@@ -152,7 +151,7 @@ layout: two-cols
 
 ::right::
 
-<div class="pl-4">
+<div class="col-right" style="align-items:flex-start;">
 
 **📦 葡萄糖儲存去向**
 
@@ -165,7 +164,7 @@ layout: two-cols
 
 <br>
 
-<img src="/images/常見急症的處置_slide85_5.jpg" class="rounded-lg shadow max-h-28" />
+<img src="/images/常見急症的處置_slide85_5.jpg" class="img-sm" />
 
 </div>
 
@@ -189,9 +188,9 @@ layout: two-cols
 
 ::right::
 
-<div class="flex flex-col gap-3 items-center justify-center h-full">
-<img src="/images/常見急症的處置_slide86_5.png" class="rounded-lg shadow max-h-44" />
-<img src="/images/常見急症的處置_slide86_7.png" class="rounded-lg shadow max-h-44" />
+<div class="col-right">
+  <img src="/images/常見急症的處置_slide86_5.png" class="img-md" />
+  <img src="/images/常見急症的處置_slide86_7.png" class="img-md" />
 </div>
 
 ---
@@ -215,8 +214,8 @@ layout: two-cols
 
 ::right::
 
-<div class="flex items-center justify-center h-full">
-<img src="/images/常見急症的處置_slide88_8.png" class="rounded-xl shadow-lg max-h-80" />
+<div class="col-right">
+  <img src="/images/常見急症的處置_slide88_8.png" class="img-xl" />
 </div>
 
 ---
@@ -238,59 +237,54 @@ layout: two-cols
 ```
 
 **三大連鎖反應：**
+
 ① 高血糖 → 脫水
+
 ② 脂肪代謝 → 酮酸
+
 ③ 蛋白質消耗 → 橫紋肌溶解
 
 ::right::
 
-<div class="flex items-center justify-center h-full">
-<img src="/images/常見急症的處置_slide90_7.jpg" class="rounded-xl shadow-lg max-h-96" />
+<div class="col-right">
+  <img src="/images/常見急症的處置_slide90_7.jpg" class="img-xl" />
 </div>
 
 ---
 
 # 連鎖①：高血糖 → 脫水
 
-<div class="text-xl leading-loose mt-6 text-center">
+<br>
 
-血糖↑ → 葡萄糖溢入尿液（**糖尿**）
+| 步驟 | 機制 |
+|------|------|
+| 血糖↑ | 葡萄糖溢入尿液（**糖尿**） |
+| 滲透壓↑ | **滲透性利尿**（大量排尿） |
+| 大量排尿 | → **脫水** |
+| 嚴重時 | → **低血容量性休克** ⚠️ |
 
-⬇️
+<br>
 
-滲透壓↑ → **滲透性利尿**（大量排尿）
-
-⬇️
-
-大量排尿 → **脫水**
-
-⬇️
-
-嚴重時 → **低血容量性休克** ⚠️
-
-</div>
+> 📌 血糖越高、排尿越多、脫水越嚴重──惡性循環
 
 ---
 
 # 連鎖②：脂肪代謝 → 酮酸中毒
 
-<div class="text-lg leading-loose mt-4">
+<br>
 
-胰島素缺乏 → 脂肪分解 → 游離脂肪酸 → 肝臟代謝 → **酮體**（丙酮、乙酸鹽）
-
-⬇️ 血液 pH 下降
-
-身體代償：**Kussmaul 呼吸**（深、快）+ 肺排丙酮 → **水果發酵氣味** 🍎
-
-⬇️ 酸中毒
-
-K⁺ 外移 → **高血鉀 → 致命心律不整** ⚡
-
-</div>
+| 步驟 | 結果 |
+|------|------|
+| 胰島素缺乏 → 脂肪分解 → 游離脂肪酸 | 肝臟代謝產生**酮體** |
+| 血液 pH 下降 | 身體代償：**Kussmaul 呼吸** |
+| 肺排丙酮 | 呼出**水果發酵氣味** 🍎 |
+| 酸中毒 | K⁺ 外移 → **高血鉀** → 致命心律不整 ⚡ |
 
 ---
 
 # 連鎖③：蛋白質消耗 → 橫紋肌溶解
+
+<br>
 
 無胰島素 → 肌肉蛋白分解 → 胺基酸轉葡萄糖（**惡性循環**）
 
@@ -302,17 +296,20 @@ K⁺ 外移 → **高血鉀 → 致命心律不整** ⚡
 
 # 🔴 橫紋肌溶解（Rhabdomyolysis）
 
-**機制：** 骨骼肌破壞 → 肌紅蛋白/K⁺/磷大量釋入血液
+**機制：** 骨骼肌破壞 → 肌紅蛋白 / K⁺ / 磷大量釋入血液
+
+<br>
 
 | 系統 | 表現 |
 |------|------|
 | 🦵 肌肉 | 劇烈疼痛、腫脹、無力 |
-| 🟤 尿液（**最具特徵！**） | **可樂色/茶褐色**、大量**泡沫**、少尿→無尿 |
+| 🟤 尿液（**最具特徵！**） | **可樂色 / 茶褐色**、大量**泡沫**、少尿→無尿 |
 | 🤒 全身 | 噁心、嘔吐、發燒、極度虛弱 |
 
 <br>
 
 **三大後果：**
+
 腎小管壞死 → **急性腎衰竭** ／ 高血鉀 → **致命心律不整** ／ **DIC**
 
 ---
@@ -325,7 +322,7 @@ layout: section
 
 # 長期併發症總覽
 
-<div class="grid grid-cols-2 gap-6 mt-4">
+<div class="complication-grid">
 <div>
 
 - ❤️ 心血管疾病、中風
@@ -336,9 +333,11 @@ layout: section
 - 🦠 **容易感染** →
 
 </div>
-<div class="bg-blue-50 rounded-xl p-6 flex flex-col justify-center">
+<div class="complication-right">
 
 **後兩頁詳述：**
+
+<br>
 
 🟡 蜂窩性組織炎
 
@@ -357,6 +356,8 @@ layout: section
 
 **臨床表現：** 局部 **紅、腫、熱、痛**
 
+<br>
+
 | 項目 | 內容 |
 |------|------|
 | 嚴重程度 | 多數抗生素可治；DM患者易反覆發作、進展為菌血症 |
@@ -373,6 +374,8 @@ layout: section
 DM神經病變 → 初期**不痛** → 延誤就醫
 
 **特徵：** 皮膚「木頭感」、水泡、壞疽、**捻髮音（crepitus）**
+
+<br>
 
 | 項目 | 數據 |
 |------|------|
@@ -399,13 +402,9 @@ layout: two-cols
 
 顫抖、心悸、冷汗、飢餓
 
-⬇️
+⬇️ 頭痛、躁動、抽搐
 
-頭痛、躁動、抽搐
-
-⬇️
-
-昏迷、**類中風表現**
+⬇️ 昏迷、**類中風表現**
 
 <br>
 
@@ -413,17 +412,18 @@ layout: two-cols
 
 ::right::
 
-<div class="flex flex-col items-center justify-center h-full gap-4">
-<img src="/images/常見急症的處置_slide96_7.jpg" class="rounded-xl shadow-lg max-h-44" />
+<div class="col-right">
+  <img src="/images/常見急症的處置_slide96_7.jpg" class="img-md" />
 
-**Whipple's Triad**
+  <br>
 
-① 有低血糖症狀
+  **Whipple's Triad**
 
-② 症狀時測到低血糖值
+  ① 有低血糖症狀
 
-③ 補糖後症狀緩解
+  ② 症狀時測到低血糖值
 
+  ③ 補糖後症狀緩解
 </div>
 
 ---
@@ -431,6 +431,8 @@ layout: two-cols
 # 🔴 急症②：DKA（糖尿病酮酸血症）
 
 胰島素缺乏 → 脂肪代謝 → 酮酸 → 酸中毒
+
+<br>
 
 | 項目 | 特徵 |
 |------|------|
@@ -448,6 +450,8 @@ layout: two-cols
 # ⚡ 急症③：euDKA — 新型陷阱
 
 血糖**正常**（< 250 mg/dL）**但有酮酸中毒**
+
+<br>
 
 | 項目 | 內容 |
 |------|------|
@@ -467,6 +471,8 @@ layout: two-cols
 
 胰島素「夠用」避免酮酸，但不夠讓組織用糖
 
+<br>
+
 | 項目 | 內容 |
 |------|------|
 | 臨床三聯 | 嚴重**脫水** ／ **意識不清** ／ 電解質嚴重異常 |
@@ -479,7 +485,7 @@ layout: two-cols
 
 # 📊 四大急性併發症比較
 
-<img src="/images/常見急症的處置_slide99_9.png" class="rounded-xl shadow mb-4 max-h-32" />
+<img src="/images/常見急症的處置_slide99_9.png" class="img-sm" style="margin-bottom:12px;" />
 
 | | 低血糖 | DKA | euDKA | HHS |
 |--|:--:|:--:|:--:|:--:|
@@ -491,7 +497,7 @@ layout: two-cols
 
 ::right::
 
-<div class="pl-4 mt-8">
+<div class="col-right" style="align-items:flex-start; padding-left:16px;">
 
 | | 低血糖 | DKA | euDKA | HHS |
 |--|:--:|:--:|:--:|:--:|
@@ -511,8 +517,8 @@ layout: section
 
 # 🚑 院前血糖監測
 
-<div class="grid grid-cols-2 gap-8 mt-4">
-<div>
+<div class="prehospital-grid">
+<div class="prehospital-box">
 
 **消防署標準**
 
@@ -525,7 +531,7 @@ layout: section
 > 適應症：急性意識改變（GCS < 14）
 
 </div>
-<div>
+<div class="prehospital-box">
 
 **實務建議**
 
@@ -542,6 +548,8 @@ layout: section
 ---
 
 # 🚑 院前給糖操作
+
+<br>
 
 | 情境 | 處置 |
 |------|------|
@@ -571,7 +579,7 @@ layout: two-cols
 
 ::right::
 
-<div class="pl-4 flex flex-col justify-center h-full">
+<div class="col-right" style="align-items:flex-start; padding-left:16px;">
 
 **Wernicke Triad（三大症狀）**
 
@@ -583,9 +591,7 @@ layout: two-cols
 
 <br>
 
-<div class="text-3xl text-center font-bold text-red-700 border-2 border-red-400 rounded-xl p-4">
-「先 B1，後糖」
-</div>
+<div class="box-red">「先 B1，後糖」</div>
 
 </div>
 
@@ -596,8 +602,8 @@ class: text-center
 
 # 總結 / 問答
 
-<div class="grid grid-cols-3 gap-6 mt-8 text-left">
-<div class="bg-blue-50 rounded-xl p-5">
+<div class="summary-grid">
+<div class="summary-box blue">
 
 **四大急症辨識**
 
@@ -606,7 +612,7 @@ class: text-center
 呼吸 + 氣味
 
 </div>
-<div class="bg-red-50 rounded-xl p-5">
+<div class="summary-box red">
 
 **院前口訣**
 
@@ -615,7 +621,7 @@ class: text-center
 意識改變先測血糖
 
 </div>
-<div class="bg-amber-50 rounded-xl p-5">
+<div class="summary-box amber">
 
 **高風險警覺**
 
@@ -626,4 +632,6 @@ class: text-center
 </div>
 </div>
 
-<img src="/images/常見急症的處置_slide110_4.png" class="mx-auto mt-8 max-h-28 rounded-lg shadow" />
+<br>
+
+<img src="/images/常見急症的處置_slide110_4.png" class="img-sm" style="margin: 0 auto;" />
