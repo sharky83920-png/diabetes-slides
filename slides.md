@@ -38,13 +38,14 @@ fonts:
 - **請勿拍照或錄影**
 - 課程後會有**問卷**，麻煩大家填寫
 
-<!-- 圖片位置：slide3_10.png（右側） -->
+<img src="/images/常見急症的處置_slide3_10.png" style="position:absolute;right:40px;top:120px;height:320px;border-radius:8px;box-shadow:0 2px 8px #0002" />
 
 ---
 
 # 講師介紹
 
-<!-- 圖片位置：slide2_22.jpg（左側講師照）、slide2_27.jpg（證件/單位） -->
+<img src="/images/常見急症的處置_slide2_22.jpg" style="position:absolute;left:60px;top:120px;height:260px;border-radius:50%;box-shadow:0 2px 8px #0003" />
+<img src="/images/常見急症的處置_slide2_27.jpg" style="position:absolute;left:40px;bottom:80px;height:120px;border-radius:8px;box-shadow:0 2px 8px #0002" />
 
 <br>
 
@@ -86,7 +87,8 @@ layout: center
 
 # 基本概念
 
-<!-- 圖片位置：slide83_4.png、slide83_9.png（右側並排） -->
+<img src="/images/常見急症的處置_slide83_4.png" style="position:absolute;right:60px;top:120px;height:200px;border-radius:8px;box-shadow:0 2px 8px #0002" />
+<img src="/images/常見急症的處置_slide83_9.png" style="position:absolute;right:60px;bottom:80px;height:140px;border-radius:8px;box-shadow:0 2px 8px #0002" />
 
 **糖尿病（DM）** = 代謝性疾病，血糖長期高於標準值
 
@@ -104,7 +106,9 @@ layout: center
 
 # 胰臟三大激素
 
-<!-- 圖片位置：slide84_5.jpg（胰臟解剖圖，上方置中）、slide85_5.jpg、slide85_8.jpg（下方兩側） -->
+<img src="/images/常見急症的處置_slide84_5.jpg" style="position:absolute;right:40px;top:100px;height:180px;border-radius:8px;box-shadow:0 2px 8px #0002" />
+<img src="/images/常見急症的處置_slide85_5.jpg" style="position:absolute;right:40px;top:300px;height:130px;border-radius:8px;box-shadow:0 2px 8px #0002" />
+<img src="/images/常見急症的處置_slide85_8.jpg" style="position:absolute;right:40px;bottom:60px;height:100px;border-radius:8px;box-shadow:0 2px 8px #0002" />
 
 | 激素 | 分泌細胞 | 功能 |
 |------|---------|------|
@@ -125,7 +129,8 @@ layout: center
 
 # 血糖調節 4 大機制
 
-<!-- 圖片位置：slide86_5.png、slide86_7.png（右側） -->
+<img src="/images/常見急症的處置_slide86_5.png" style="position:absolute;right:40px;top:120px;height:200px;border-radius:8px;box-shadow:0 2px 8px #0002" />
+<img src="/images/常見急症的處置_slide86_7.png" style="position:absolute;right:40px;bottom:80px;height:160px;border-radius:8px;box-shadow:0 2px 8px #0002" />
 
 1. 胰島素 ↔ 昇糖素 **負向回饋**
 2. **肝醣的儲存與分解**
@@ -141,7 +146,7 @@ layout: center
 
 # 糖尿病分類
 
-<!-- 圖片位置：slide88_8.png（右側） -->
+<img src="/images/常見急症的處置_slide88_8.png" style="position:absolute;right:40px;top:120px;height:280px;border-radius:8px;box-shadow:0 2px 8px #0002" />
 
 | 類型 | 特徵 | 好發 |
 |------|------|------|
@@ -158,7 +163,7 @@ layout: center
 
 # 病理生理：核心流程
 
-<!-- 圖片位置：slide90_7.jpg（左側） -->
+<img src="/images/常見急症的處置_slide90_7.jpg" style="position:absolute;right:40px;top:100px;height:300px;border-radius:8px;box-shadow:0 2px 8px #0002" />
 
 ```
 胰島素不足／抗性
@@ -292,7 +297,7 @@ DM神經病變 → 初期**不痛** → 延誤就醫
 
 **症狀進程：** 顫抖、心悸、冷汗、飢餓 → 頭痛、躁動、抽搐 → 昏迷、**類中風表現**
 
-<!-- 圖片位置：slide96_7.jpg（艾倫惠普醫師照，右側） -->
+<img src="/images/常見急症的處置_slide96_7.jpg" style="position:absolute;right:60px;top:130px;height:220px;border-radius:8px;box-shadow:0 2px 8px #0002" />
 
 **Whipple's Triad**
 
@@ -355,7 +360,7 @@ DM神經病變 → 初期**不痛** → 延誤就醫
 
 # 📊 四大急性併發症比較（總整理）
 
-<!-- 圖片位置：slide99_9.png（上方置中） -->
+<img src="/images/常見急症的處置_slide99_9.png" style="position:absolute;right:40px;top:80px;height:160px;border-radius:8px;box-shadow:0 2px 8px #0002" />
 
 | | 低血糖 | DKA | **euDKA** | **HHS** |
 |--|:------:|:---:|:---------:|:-------:|
@@ -428,4 +433,4 @@ layout: center
 
 **高風險警覺：** 可樂色尿（橫紋肌溶解）／ 疼痛外觀不符（壞死性筋膜炎）
 
-<!-- 圖片位置：slide110_4.png（問卷 QR Code） -->
+<img src="/images/常見急症的處置_slide110_4.png" style="height:160px;border-radius:8px;box-shadow:0 2px 8px #0002;margin-top:24px" />
